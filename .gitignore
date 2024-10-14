@@ -1,0 +1,7 @@
+%folders to ignore
+old/
+jc-mpc/
+
+%files to ignore
+*.asv
+*.slxc
